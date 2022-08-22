@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Rabid Admin',
   tagline: 'Rabid Admin',
-  url: 'https://bft-rabid.github.io',
+  url: 'https://rabid-dao.github.io',
   baseUrl: '/rabid-backoffice-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
