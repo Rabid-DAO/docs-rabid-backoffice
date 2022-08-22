@@ -1,35 +1,7 @@
-# rabid-admin
+Rabid DAO Backoffice
 
-[![Docusaurus](static/img/docusaurus.png)](https://docusaurus.io/)
+RaBid is the first blockchain platform dedicated to competition betting in the world of extreme sports. With a profit sharing system within a DAO system.
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+The beginning of this cycle is marked by the first launches of NFTs, introducing some of the best athletes of various extreme sports while bringing a new kind of stability to the players of these sports, which may remain to this day far from the kind of stability of mainstream sports athletes, but closer now with RABID! The holders of these NFTs will have a monthly distribution of 60% of all revenue from the casino and bookmaker, where the amount received varies depending on the number of NFTs and their rarity.
 
-### Installation
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://nodejs.org/en/download/) [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://classic.yarnpkg.com/en/docs/install)
-
-
-### Local Development
-
-```
-$ npm run start
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ npm run build
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+After the launch of the first pre-sales, the decentralized crypto casino is born with the most classic games of luck, adapted to the theme of extreme sports. With no deposit required to start playing. Unlike all other casinos, if the user does not win the value of his bet will not be a profit of the house or of some kind of owner, in this case, the investment is reverted to distribute to the NFT's holders and also used as a donation for several social interventions.
